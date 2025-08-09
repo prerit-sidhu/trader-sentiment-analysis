@@ -67,8 +67,9 @@ Contains daily Fear & Greed Index data.
    git clone https://github.com/your-username/trader-sentiment-analysis.git
    cd trader-sentiment-analysis
 2. Install dependencies:
+   ```bash
     pip install -r requirements.txt
-3. Run the Jupyter Notebook cell by cell
+4. Run the Jupyter Notebook cell by cell
    
 ## 🛠️ Technologies Used
 Python 3
